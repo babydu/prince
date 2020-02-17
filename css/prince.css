@@ -50,6 +50,10 @@ a:visited{
 	border-radius: 20px;
 }
 
+header{
+	margin-top: 55px;
+}
+
 h1,h2{
 	text-align: center;
 }
@@ -78,7 +82,7 @@ article{
 	width: 60%;
 	display: inline-block;
 	position: relative;
-	margin-left: 5%;
+	margin-left: 13%;
 	margin-top: 15px;
 	background-color: #F6F6F6;
 	border-radius: 10px;
@@ -88,19 +92,21 @@ article{
 	width: 45%;
 	min-width: 600px;
 	margin-right: 5%;
-	margin-top: 0;
+	margin-top: 20px;
 }
+
 
 #theIndexMenu{
 	float: left;
 	width: 45%;
 	min-width: 600px;
-	margin-top: 5px;
+	margin-top: 25px;
+	margin-bottom: 150px;
 }
 
 .indexMain{
 	position: relative;
-	margin-top: 30px;
+	margin-top: 20px;
 }
 
 
@@ -215,3 +221,5 @@ footer p{
 #goTop:hover {
 	background-color:lightyellow;
 }
+
+/*404页面*/
