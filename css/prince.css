@@ -229,6 +229,7 @@ footer p{
 	
 	article{
 		margin-left:20% ;
+		width:75%;
 	}
 	
 	.indexMain{
@@ -236,7 +237,7 @@ footer p{
 	}
 	
 	.content p{
-		line-height: 1.5em;
+		line-height: 2em;
 	}
 	
 	#theIndexMenu{
@@ -246,7 +247,7 @@ footer p{
 		float: none;
 	}
 	
-  .indexArticle{
+  	.indexArticle{
 		width: 80%;
 		margin: 30px auto;
 		display: block;
