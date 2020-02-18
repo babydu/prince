@@ -234,7 +234,7 @@ footer p{
 	article{
 		display: block;
 		margin:0 auto ;
-		widows: 80%;
+		width: 80%;
 	}
 	
 	.indexMain{
