@@ -227,9 +227,14 @@ footer p{
 /*移动端*/
 @media (max-width: 1500px) {
 	
+	h1{
+		font-size: 2.5em;
+	}
+	
 	article{
-		margin-left:20% ;
-		width:75%;
+		display: block;
+		margin:0 auto ;
+		widows: 80%;
 	}
 	
 	.indexMain{
