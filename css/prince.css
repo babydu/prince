@@ -94,6 +94,7 @@ article{
 	min-width: 600px;
 	margin-right: 5%;
 	margin-top: 20px;
+	margin-left: 5px;
 }
 
 
@@ -223,4 +224,34 @@ footer p{
 	background-color:lightyellow;
 }
 
-/*404页面*/
+/*移动端*/
+@media (max-width: 1500px) {
+	
+	article{
+		margin-left:20% ;
+	}
+	
+	.indexMain{
+		width: 90%;
+	}
+	
+	.content p{
+		line-height: 1.5em;
+	}
+	
+	#theIndexMenu{
+		width: 80%;
+		
+		margin: 30px auto;
+		float: none;
+	}
+	
+  .indexArticle{
+		width: 80%;
+		margin: 30px auto;
+		display: block;
+	}
+	
+	
+	
+}
