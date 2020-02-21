@@ -1,0 +1,7 @@
+﻿User-agent: *
+Disallow: 
+Disallow: /css
+Disallow: /js
+Disallow: /.git
+Sitemap: https://littleprince.site/sitemap.xml
+Sitemap: https://littleprince.site/sitemap.html
