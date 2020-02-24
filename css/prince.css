@@ -91,7 +91,6 @@ article{
 
 .indexArticle{
 	width: 45%;
-	min-width: 600px;
 	margin-right: 5%;
 	margin-top: 20px;
 	margin-left: 5px;
@@ -101,7 +100,6 @@ article{
 #theIndexMenu{
 	float: left;
 	width: 45%;
-	min-width: 600px;
 	margin-top: 25px;
 	margin-bottom: 150px;
 }
@@ -182,14 +180,14 @@ footer p{
 
 
 .theMenuContent{
-	text-align: center;
+	text-align: left;
 }
 
 .theMenuContent a{
 	display: inline-block;
 	width:90px;
 	text-align: left;
-	margin: 8px 50px;
+	margin: 1em 0.5em;
 }
 
 .theFloatButton{
@@ -225,7 +223,7 @@ footer p{
 }
 
 /*移动端*/
-@media (max-width: 1500px) {
+@media (max-width: 1000px) {
 	
 	h1{
 		font-size: 2.5em;
@@ -238,18 +236,17 @@ footer p{
 	}
 	
 	.indexMain{
-		
+		width: 90%;
 	}
 	
 	.content p{
 		line-height: 2em;
-		font-size: 15px;
+		font-size: 1.5em;
 	}
 	
 	#theIndexMenu{
-		width: 80%;
-		
-		margin: 30px auto;
+		width: 100%;
+		margin-left:3em;
 		margin-bottom: 100px;
 		float: none;
 	}
@@ -259,12 +256,12 @@ footer p{
 	}
 	
 	.theMenuContent a{
-		width: 100px;
-		font-size: 20px;
+		width: 5em;
+		font-size: 1.2em;
 	}
 	
   .indexArticle{
-		width: 80%;
+		width: 100%;
 		margin: 30px auto;
 		display: block;
 	}
