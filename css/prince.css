@@ -18,7 +18,7 @@ p{
 	"华文细黑", "Microsoft YaHei", 
 	"微软雅黑", SimSun, "宋体", Heiti, 
 	"黑体", sans-serif;
-	font-size: 17px;
+	font-size: 1.2em;
 }
 
 
@@ -59,7 +59,7 @@ h1,h2{
 	text-align: center;
 }
 h1,h2,h3,h4{
-	padding: 20px 0;
+	padding-top: 20px;
 	text-spacing: 10px;
 	letter-spacing: 0.3em;
 }
@@ -97,11 +97,12 @@ article{
 }
 
 
-#theIndexMenu{
+.theIndexMenu{
 	float: left;
 	width: 45%;
 	margin-top: 25px;
 	margin-bottom: 150px;
+	margin-left:1em;
 }
 
 .indexMain{
@@ -126,7 +127,7 @@ article{
 }
 
 .contentFooter{
-	margin: 60px auto;
+	margin: 30px auto;
 }
 
 .contentFooter p{
@@ -138,7 +139,7 @@ article{
 	padding: 10px 16px;
 	line-height: 1.2;
 	border-radius: 4px;
-	font-weight: 900;
+	font-weight: 600;
 }
 .pagination:hover{
 	background-color: #F0F0F0;
@@ -181,6 +182,7 @@ footer p{
 
 .theMenuContent{
 	text-align: left;
+	padding-top:20px;
 }
 
 .theMenuContent a{
@@ -193,19 +195,19 @@ footer p{
 .theFloatButton{
 	position: fixed;
 	right: 5px;
-	bottom:30px;
+	bottom:40px;
 	text-align: right;
+	vertical-align:bottom;
 }
 
 #theLittlePrince{
 
 }
 
-.thebuttons{
-	display: inline-block;
-}
+
 
 #goTop {
+
 	z-index: 99;
 	border: none;
 	outline: none;
@@ -215,17 +217,43 @@ footer p{
 	border-radius: 10px;
 	margin: 0;
 	width: 50px;
-	display: none;
 }
 
 #goTop:hover {
-	background-color:lightyellow;
+	background-color:#E9E8E8;
+}
+
+#theButtonMenu{
+	position:fixed;
+	right:60px;
+	bottom:40px;
+	display:none;
+}
+
+#theButtonMenu a{
+	display:block;
+	width:5em;
+	text-align:center;
+	background-color:#ECEDEE;
+	border-radius:3px;
+	padding:0.3em;
+	font-weight:500;
+	margin-top:0.2em;
+	margin-right:0.2em;
+	word-spacing:1em;
+	cursor: pointer;
+}
+
+#theButtonMenu a:hover {
+	background-color:#E9E8E8;
 }
 
 /*移动端*/
 @media (max-width: 1000px) {
 	
-
+	.container{
+		width:95%;
+	}
 	
 	article{
 		display: block;
@@ -239,23 +267,24 @@ footer p{
 	}
 	
 	.content p{
-		line-height: 1.5em;
+		line-height: 1.7em;
 		font-size: 1.1em;
+		margin-left:1em;
 	}
 	
-	#theIndexMenu{
+	.theIndexMenu{
 		width: 100%;
-		margin-bottom: 100px;
+		margin-bottom: 50px;
 		float: none;
 	}
 	
-	#theIndexMenu h2{
+	.theIndexMenu h2{
 		display:inline-black;
 		width:90%;
 	}
 	
 	.theMenuContent a{
-		width: 5em;
+		width: 5.3em;
 		font-size: 1em;
 	}
 	

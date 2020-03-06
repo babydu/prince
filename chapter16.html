@@ -2,7 +2,7 @@
 <html lang="zh-CN"><!-- InstanceBegin template="/Templates/chapter1.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 		<meta charset="UTF-8">
-		<meta name="description" content="法国童话小说《小王子》中英法三语在线阅读，以及《小王子》作者的生平事迹和作品等资料,献给童年时代的你,曾经童年的你。">
+		<meta name="description" content="法国童话小说《小王子》中英法三语在线阅读，《小王子》作者圣埃克苏佩里的生平事迹和作品等资料,小王子感想读后感，相关资源下载。">
 		<!-- InstanceBeginEditable name="doctitle" -->
 		<meta name="keywords" content="小王子,小王子在线阅读,小王子网站,小王子第十六章,xiaowangzi,the little prince,Le petit prince">
 		<meta name="robots" content="index,follow" />
@@ -28,7 +28,7 @@
 		</script>
 		<!-- 百度统计 -->
 		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/babydu/prince@master/css/prince.css" />
-		<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/babydu/prince@0.2/js/prince.js" ></script>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/babydu/prince@master/js/prince.js" ></script>
 		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><!--标签图标-->
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -111,7 +111,17 @@
 				
 			</article>
 			<!-- InstanceEndEditable -->
+			<!-- 底部浮动菜单按钮 -->
+			<div class="theFloatButton">
+				<!--<button onclick="topFunction()" class="myBtn" id="goTop" title="回顶部"><img id="theLittlePrince" src="img/小王子摇晃.gif" /></button>-->
+				<!--<button onclick="contentDisplay('theMenu')" class="myBtn" id="chapterMenu" title="目录">章节目录</button>-->
+				<img alt="小王子返回顶部" onclick="displayButtonMenu('theButtonMenu')" id="goTop" src="https://cdn.jsdelivr.net/gh/babydu/prince@0.2/img/小王子摇晃.gif" />
+			</div>
 			
+			<div id="theButtonMenu">
+					<a href="chapteren.html" onclick="displayButtonMenu('theButtonMenu')">English</a>
+					<a onclick="topFunction('theButtonMenu')">Top</a>
+			</div>
 			
 			
 			<footer>
@@ -160,13 +170,6 @@
 			
 		</div>
 		
-		<div class="theFloatButton">
-			<div class="thebuttons">
-				<!--<button onclick="topFunction()" class="myBtn" id="goTop" title="回顶部"><img id="theLittlePrince" src="img/小王子摇晃.gif" /></button>-->
-				<!--<button onclick="contentDisplay('theMenu')" class="myBtn" id="chapterMenu" title="目录">章节目录</button>-->
-				<img onclick="topFunction()" id="goTop" src="https://cdn.jsdelivr.net/gh/babydu/prince@0.2/img/小王子摇晃.gif" alt="小王子 摇晃 返回顶部" title="小王子 摇晃 返回顶部" />
-			</div>
-		</div>
 		<!-- InstanceBeginEditable name="theBodyEnd" -->
 		
 		<!-- InstanceEndEditable -->
