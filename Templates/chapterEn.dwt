@@ -1,13 +1,12 @@
 <!DOCTYPE html>
-<html lang="zh-CN"><!-- InstanceBegin template="/Templates/chapter1.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
 <head>
 		<meta charset="UTF-8">
-		<meta name="description" content="法国童话小说《小王子》中英法三语在线阅读，《小王子》作者圣埃克苏佩里的生平事迹和作品等资料,小王子感想读后感，相关资源下载。">
-		<!-- InstanceBeginEditable name="doctitle" -->
-		<meta name="keywords" content="小王子,小王子在线阅读,小王子网站,小王子第一章,xiaowangzi,the little prince,Le petit prince">
-		<meta name="robots" content="index,follow" />
-		<title>小王子-the Little Prince-Le petit prince——小王子第一章</title>
-		<!-- InstanceEndEditable -->
+		<!-- TemplateBeginEditable name="doctitle" -->
+		<meta name="description" content="法国童话小说《小王子》中英法三语在线阅读，小王子英文版在线阅读，《小王子》作者安托万·德·圣埃克絮佩里的生平事迹和作品等资料.Once when I was six years old I saw a magnificent picture in a book, called True Stories from Nature, about the primeval forest. ">
+		<meta name="keywords" content="the little prince,小王子第一章,小王子在线阅读,小王子英文,xiaowangzi,Le petit prince">
+		<title>the Little Prince Chapter 1-小王子-Le petit prince</title>
+		<!-- TemplateEndEditable -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- Google Tag Manager -->
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -35,9 +34,9 @@
 		<link rel="manifest" href="/site.webmanifest">
 		<meta name="msapplication-TileColor" content="#da532c">
 		<meta name="theme-color" content="#ffffff">
-		<!-- InstanceBeginEditable name="head" -->
-		
-		<!-- InstanceEndEditable -->
+		<!-- TemplateBeginEditable name="head" -->
+
+		<!-- TemplateEndEditable -->
 </head>
 	<body>
 		
@@ -69,37 +68,37 @@
 		})();
 		</script>
 		<!-- 360自动推送 -->
-		<!-- InstanceBeginEditable name="theBodyStart" -->
 		
-		<!-- InstanceEndEditable -->
+		
+		<!-- TemplateBeginEditable name="theBodyStart" -->
+		
+		<!-- TemplateEndEditable -->
+		
+		<!-- TemplateBeginEditable name="theContent" -->
 		<div class="container">
 			
 			<header>
-				<!-- InstanceBeginEditable name="theH1" -->
-				<h1><a href="index.html">小王子</a></h1>
-				<!-- InstanceEndEditable -->
-				<p id="theAuthor"><a href="author.html">[法] 圣埃克苏佩里</a></p>
+				<h1><a href="index.html">The Little Prince</a></h1>
+				<p id="theAuthor"><a href="author.html">Antoine de Saint-Exupéry</a></p>
 			</header>
 			
-			
-			<!-- InstanceBeginEditable name="theContent" -->
 			<article>
 				<div class="contentHeader">
-					<h1><a id="thePageUrl" href="#">第1章</a></h1>
+					<h1><a id="thePageUrl" href="#">Chapter 1</a></h1>
 				</div>
 				<div class="content">
 					<p>我六岁的时候，看到过一本写原始森林的书，名叫《真实的故事》，书中有一幅精彩的插图。
 						上面画着一条蟒蛇正在吞吃一只猛兽。照原样画下来就是这个样子。
 					</p>
 					<p>
-						<img src="https://cdn.jsdelivr.net/gh/babydu/prince@0.2/img/01a.jpg" alt="小王子-蟒蛇吞猛兽" title="小王子-蟒蛇吞猛兽" />
+						<img src="img/01a.jpg" />
 					</p>
 					<p>
 						书中是这样写的：“这些蟒蛇不加咀嚼，就把它们捕获的食物整个吞到肚里，之后就不再能动弹了。它们睡上六个月，来消化吞下的食物。”
 						那时，我对丛林中的惊险事情想得很多，于是，我用彩色铅笔画出了我的第一幅图画。我的第一张图画是这样的。
 					</p>
 					<p>
-						<img src="https://cdn.jsdelivr.net/gh/babydu/prince@0.2/img/01b.jpg" alt="小王子-蟒蛇吞大象-一顶帽子" title="小王子-蟒蛇吞大象-一顶帽子" />
+						<img src="img/01b.jpg" />
 					</p>
 					<p>
 						我把我的杰作拿给大人们看，并问他们看了害怕不害怕。
@@ -108,7 +107,7 @@
 						这些大人啊，总得要别人给作解释。下面就是我的第二张图画。
 					</p>
 					<p>
-						<img src="https://cdn.jsdelivr.net/gh/babydu/prince@0.2/img/01c.jpg" alt="小王子-蟒蛇吞大象" title="小王子-蟒蛇吞大象" />
+						<img src="img/01c.jpg" />
 					</p>
 					<p>
 						大人们劝我，还是把这些剖开的，或者完整的蟒蛇画丢到一边去吧，多关心点地理、历史、算术和语法为好。
@@ -132,77 +131,42 @@
 				
 				<div class="contentFooter">
 					<p>
-						<a class="pagination thePrevious" href="xianci.html">献词</a>
-						<a class="pagination theNext" href="chapter2.html">下一章</a>
+						<a class="pagination thePrevious" href="chapteren1.html">Previous chapter</a>
+						<a class="pagination theNext" href="chapteren2.html">Next chapter</a>
 					</p>
 				</div>
 				
 				
 			</article>
-			<!-- InstanceEndEditable -->
-			<!-- 底部浮动菜单按钮 -->
+			<!-- TemplateEndEditable -->
+			
 			<div class="theFloatButton">
 				<!--<button onclick="topFunction()" class="myBtn" id="goTop" title="回顶部"><img id="theLittlePrince" src="img/小王子摇晃.gif" /></button>-->
 				<!--<button onclick="contentDisplay('theMenu')" class="myBtn" id="chapterMenu" title="目录">章节目录</button>-->
 				<img alt="小王子返回顶部" onclick="displayButtonMenu('theButtonMenu')" id="goTop" src="https://cdn.jsdelivr.net/gh/babydu/prince@0.2/img/小王子摇晃.gif" />
 			</div>
-			
 			<div id="theButtonMenu">
-					<a href="chapteren.html" onclick="displayButtonMenu('theButtonMenu')">English</a>
+					<a href="chapterzh.html" onclick="displayButtonMenu('theButtonMenu')">中  文</a>
 					<a href="chapterfr.html" onclick="displayButtonMenu('theButtonMenu')">Français</a>
 					<a href="resource.html" onclick="displayButtonMenu('theButtonMenu')">相关资源</a>
 					<a onclick="topFunction('theButtonMenu')">Top</a>
 			</div>
 			
-			
 			<footer>
 				<p> Copyright 小王子 All right reserved <a href="sitemap.html">网站地图</a> |友情链接：<a href="https://chinesegirl.me">muTu's Note</a></p>
-				<!-- InstanceBeginEditable name="theFooter" -->
+				<!-- TemplateBeginEditable name="theFooter" -->
 				
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</footer>
+				
+			<!-- TemplateBeginEditable name="theFooterMenu" -->
 			
-			
-			<!-- InstanceBeginEditable name="theFooterMenu" -->
-			<menu id="theMenu">
-				<h2>章节目录</h2>
-				<div class="theMenuContent">
-					<a href="#">第一章</a>
-					<a href="#">第二章</a>
-					<a href="#">第三章</a>
-					<a href="#">第四章</a>
-					<a href="#">第五章</a>
-					<a href="#">第六章</a>
-					<a href="#">第七章</a>
-					<a href="#">第八章</a>
-					<a href="#">第九章</a>
-					<a href="#">第十章</a>
-					<a href="#">第十一章</a>
-					<a href="#">第十二章</a>
-					<a href="#">第十三章</a>
-					<a href="#">第十四章</a>
-					<a href="#">第十五章</a>
-					<a href="#">第十六章</a>
-					<a href="#">第十七章</a>
-					<a href="#">第十八章</a>
-					<a href="#">第十九章</a>
-					<a href="#">第二十章</a>
-					<a href="#">第二十一章</a>
-					<a href="#">第二十二章</a>
-					<a href="#">第二十三章</a>
-					<a href="#">第二十四章</a>
-					<a href="#">第二十五章</a>
-					<a href="#">第二十六章</a>
-					<a href="#">第二十七章</a>
-				</div>
-			</menu>
-			<!-- InstanceEndEditable -->
-			
-			
+			<!-- TemplateEndEditable -->
+	
 		</div>
+
+		<!-- TemplateBeginEditable name="theBodyEnd" -->
 		
-		<!-- InstanceBeginEditable name="theBodyEnd" -->
-		
-		<!-- InstanceEndEditable -->
+		<!-- TemplateEndEditable -->
 	</body>
-<!-- InstanceEnd --></html>
+</html>

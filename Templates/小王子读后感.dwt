@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/chapterEn.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="zh-CN">
 <head>
 		<meta charset="UTF-8">
-		<!-- InstanceBeginEditable name="doctitle" -->
-		<meta name="description" content="法国童话小说《小王子》中英法三语在线阅读，小王子英文版在线阅读，《小王子》作者安托万·德·圣埃克絮佩里的生平事迹和作品等资料.the narrator discusses the Earth's lamplighters. So then the seventh planet was the Earth.The Earth is not just an ordinary planet! ">
-		<meta name="keywords" content="the little prince,小王子第十六章,小王子在线阅读,小王子英文,xiaowangzi,Le petit prince">
-		<title>the Little Prince Chapter 16-小王子-Le petit prince</title>
-		<!-- InstanceEndEditable -->
+		<!-- TemplateBeginEditable name="doctitle" -->
+		<meta name="description" content="法国童话小说《小王子》中英法三语在线阅读，《小王子》作者圣埃克苏佩里的生平事迹和作品等资料,小王子感想读后感，相关资源下载。">
+		<meta name="keywords" content="小王子,小王子在线阅读,小王子网站,小王子中文,xiaowangzi,the little prince,Le petit prince Français">
+		<title>小王子-the Little Prince-Le petit prince——小王子第一章</title>
+		<!-- TemplateEndEditable -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- Google Tag Manager -->
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -34,9 +34,9 @@
 		<link rel="manifest" href="/site.webmanifest">
 		<meta name="msapplication-TileColor" content="#da532c">
 		<meta name="theme-color" content="#ffffff">
-		<!-- InstanceBeginEditable name="head" -->
+		<!-- TemplateBeginEditable name="head" -->
 
-		<!-- InstanceEndEditable -->
+		<!-- TemplateEndEditable -->
 </head>
 	<body>
 		
@@ -68,74 +68,66 @@
 		})();
 		</script>
 		<!-- 360自动推送 -->
+		<!-- TemplateBeginEditable name="theBodyStart" -->
 		
-		
-		<!-- InstanceBeginEditable name="theBodyStart" -->
-		
-		<!-- InstanceEndEditable -->
-		
-		<!-- InstanceBeginEditable name="theContent" -->
+		<!-- TemplateEndEditable -->
 		<div class="container">
 			
 			<header>
-				<h1><a href="index.html">The Little Prince</a></h1>
-				<p id="theAuthor"><a href="author.html">Antoine de Saint-Exupéry</a></p>
+				<!-- TemplateBeginEditable name="theH1" -->
+				<h1><a href="index.html">小王子</a></h1>
+				<!-- TemplateEndEditable -->
+				<p id="theAuthor"><a href="author.html">[法] 圣埃克苏佩里</a></p>
 			</header>
 			
+			
+			<!-- TemplateBeginEditable name="theContent" -->
 			<article>
 				<div class="contentHeader">
-					<h1><a id="thePageUrl" href="#">Chapter 16</a></h1>
+					<h1><a id="thePageUrl" href="#">第1章</a></h1>
 				</div>
 				<div class="content">
-					<p>So then the seventh planet was the Earth.</p>
-
-					<p>The Earth is not just an ordinary planet! One can count, there 111 kings (not forgetting, to be sure, the Negro kings among them), 7000 geographers, 900,000 businessmen, 7,500,000 tipplers, 311,000,000 conceited men-- that is to say, about 2,000,000,000 grown-ups.</p>
-
-					<p>To give you an idea of the size of the Earth, I will tell you that before the invention of electricity it was necessary to maintain, over the whole of the six continents, a veritable army of 462,511 lamplighters for the street lamps.</p>
-
-					<p>Seen from a slight distance, that would make a splendid spectacle. The movements of this army would be regulated like those of the ballet in the opera. First would come the turn of the lamplighters of New Zealand and Australia. Having set their lamps alight, these would go off to sleep. Next, the lamplighters of China and Siberia would enter for their steps in the dance, and then they too would be waved back into the wings. After that would come the turn of the lamplighters of Russia and the Indies; then those of Africa and Europe, then those of South America; then those of South America; then those of North America. And never would they make a mistake in the order of their entry upon the stage. It would be magnificent.</p>
-
-					<p>Only the man who was in charge of the single lamp at the North Pole, and his colleague who was responsible for the single lamp at the South Pole-- only these two would live free from toil and care: they would be busy twice a year.</p>
+					
 				</div>
 				
-				<div class="contentFooter">
-					<p>
-						<a class="pagination thePrevious" href="chapteren15.html">Previous</a>
-						<a class="pagination theNext" href="chapteren17.html">Next</a>
-					</p>
-				</div>
+
 				
 				
 			</article>
-			<!-- InstanceEndEditable -->
-			
+			<!-- TemplateEndEditable -->
+			<!-- 底部浮动菜单按钮 -->
 			<div class="theFloatButton">
 				<!--<button onclick="topFunction()" class="myBtn" id="goTop" title="回顶部"><img id="theLittlePrince" src="img/小王子摇晃.gif" /></button>-->
 				<!--<button onclick="contentDisplay('theMenu')" class="myBtn" id="chapterMenu" title="目录">章节目录</button>-->
 				<img alt="小王子返回顶部" onclick="displayButtonMenu('theButtonMenu')" id="goTop" src="https://cdn.jsdelivr.net/gh/babydu/prince@0.2/img/小王子摇晃.gif" />
 			</div>
+			
 			<div id="theButtonMenu">
 					<a href="chapterzh.html" onclick="displayButtonMenu('theButtonMenu')">中  文</a>
+					<a href="chapteren.html" onclick="displayButtonMenu('theButtonMenu')">English</a>
 					<a href="chapterfr.html" onclick="displayButtonMenu('theButtonMenu')">Français</a>
 					<a href="resource.html" onclick="displayButtonMenu('theButtonMenu')">相关资源</a>
 					<a onclick="topFunction('theButtonMenu')">Top</a>
 			</div>
 			
+			
 			<footer>
 				<p> Copyright 小王子 All right reserved <a href="sitemap.html">网站地图</a> |友情链接：<a href="https://chinesegirl.me">muTu's Note</a></p>
-				<!-- InstanceBeginEditable name="theFooter" -->
+				<!-- TemplateBeginEditable name="theFooter" -->
 				
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</footer>
-				
-			<!-- InstanceBeginEditable name="theFooterMenu" -->
 			
-			<!-- InstanceEndEditable -->
-	
+			
+			<!-- TemplateBeginEditable name="theFooterMenu" -->
+			
+			<!-- TemplateEndEditable -->
+			
+			
 		</div>
-
-		<!-- InstanceBeginEditable name="theBodyEnd" -->
 		
-		<!-- InstanceEndEditable -->
+		<!-- TemplateBeginEditable name="theBodyEnd" -->
+		
+		<!-- TemplateEndEditable -->
 	</body>
-<!-- InstanceEnd --></html>
+</html>
